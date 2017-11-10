@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Trippki</title>
+</head>
+
+<body style="border: 0; margin: 0; overflow: hidden; background: #fff;">
+	<div style="text-align: center; margin: 0 auto;">
+		<img src="launch.png" style="max-width: 100%;">
+	</div>
+</body>
+</html>
